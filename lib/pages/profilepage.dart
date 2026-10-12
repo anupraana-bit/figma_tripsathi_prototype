@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '/constants.dart';
+import 'package:paclassdemo/constants.dart';
 import 'package:paclassdemo/screens//welcomescreen.dart';
 
 class ProfilePage extends StatelessWidget {
